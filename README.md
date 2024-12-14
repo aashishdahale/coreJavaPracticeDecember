@@ -1,4 +1,3 @@
-myCoreJavaPracticeDecember
 Welcome to the myCoreJavaPracticeDecember repository! 🎉
 
 This repository is a collection of Core Java practice codes, covering all key concepts, from beginner to advanced levels. It's an excellent resource anyone looking to strengthen their Java fundamentals through practical examples and exercises.
