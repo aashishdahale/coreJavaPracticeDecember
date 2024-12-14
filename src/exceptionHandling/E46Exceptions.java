@@ -1,6 +1,6 @@
-package coreJava;
+package exceptionHandling;
 
-public class P46Exceptions {
+public class E46Exceptions {
 
 	public static void main(String[] args) {
 

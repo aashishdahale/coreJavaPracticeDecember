@@ -1,4 +1,4 @@
-package coreJava;
+package exceptionHandling;
 
 class AshException extends Exception{
 	public AshException(String str) {
@@ -6,7 +6,7 @@ class AshException extends Exception{
 	}
 }
 
-public class P47ThrowKeyword {
+public class E47ThrowKeyword {
 	public static void main(String[] args) {
 
 		int i = 20;
