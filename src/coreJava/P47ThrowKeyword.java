@@ -20,7 +20,7 @@ public class P47ThrowKeyword {
 			j= 18/1;
 			System.out.println("This is default output " + e);
 		} catch (Exception e) {
-			System.out.println("Something went wrong " + e);
+			System.out.println("Something went wrong test" + e);
 		}
 
 		System.out.println(j);
